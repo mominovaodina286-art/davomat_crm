@@ -1,0 +1,4 @@
+/* App custom utilities */
+.table-container {
+  max-height: calc(100vh - 380px);
+}
